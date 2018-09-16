@@ -64,4 +64,9 @@ for song in songs {
     print("My favorite song is \(song)")
 }
 
+func favoriteAlbum() {
+    print("My favorite album is Maggot Brain")
+}
+
+favoriteAlbum()
 
